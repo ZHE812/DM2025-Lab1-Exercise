@@ -1,1 +1,12 @@
-3.11.0
+# Python 版本
+python>=3.10
+
+# 深度學習與 YOLOv8
+ultralytics==8.3.207
+torch==2.8.0+cu126
+torchvision==0.23.0+cu126
+
+# 數據處理與圖像操作
+numpy==2.0.2
+pandas==2.2.2
+Pillow==11.3.0
